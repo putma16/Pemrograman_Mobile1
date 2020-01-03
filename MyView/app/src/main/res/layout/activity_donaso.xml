@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorwhite"
+    tools:context=".Donasi">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#4CAF50"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimaryDark1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20sp"
+                android:text="Donasi"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="45dp"
+            android:background="#4CAF50"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="350dp"
+                android:layout_height="match_parent"
+                android:text="Nama Anda"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_person_white_24dp"
+                android:drawablePadding="10dp" />
+
+            <TextView
+                android:layout_width="350dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:text="Alamat Email"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_email_white_24dp"
+                android:drawablePadding="10dp" />
+
+            <TextView
+                android:layout_width="350dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:text="Jumlah Donasi"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_attach_money_white_24dp"
+                android:drawablePadding="10dp" />
+
+
+            <TextView
+                android:layout_width="350dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:text="Tambahan Catatan"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <EditText
+                style="@style/Widget.AppCompat.ActionButton"
+                android:layout_width="350dp"
+                android:layout_height="142dp"
+                android:background="#fffffF"
+                android:inputType="textFilter" />
+
+            <Button
+                android:layout_width="145dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="45dp"
+                android:layout_marginBottom="@dimen/activity_vertical_layout"
+                android:background="@drawable/buttonstyle1"
+                android:text="PEMBAYARAN"
+                android:textColor="#FFF" />
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

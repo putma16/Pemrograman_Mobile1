@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">MyRecycleView</string>
+    <string name="hmj_name">HMJ Polines</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>HMJ Elektro</item>
+        <item>HMJ Sipil</item>
+        <item>HMJ Mesin</item>
+        <item>HMJ Akutansi</item>
+        <item>HMJ Administrasi Bisnis</item>
+        <item>UKM PCC</item>
+        <item>UKM Konsep</item>
+        <item>UKM PP</item>
+        <item>UKM Dimensi</item>
+        <item>UKM PECC</item>
+        <item>UKM KSR PMI</item>
+        <item>UKM Kewirausahaan</item>
+        <item>UKM Jazirah</item>
+        <item>UKM Kopma</item>
+        <item>UKM PLBS</item>
+    </string-array>
+    <string-array name="data_description">
+            <item>Himpunan Mahasiswa Jurusan Teknik Elektro adalah salah satu Himpun an Mahasiswa Jurusan yang ada di
+        Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan,
+        yang dibentuk oleh mahasiswa Jurusan Tek nik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Sipil adalah salah satu Himpunan Mahasiswa Jurusan
+        yang ada di Politeknik Negeri Semarang yang merupakan organis asi kemahasiswaan di tingkat jurusan,
+        yang dibentuk oleh mahasiswa Jurusan Tekni k Sipil untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu Himpunan Mahasiswa Jurusan yang ada di
+        Politeknik Negeri Semarang yang merupakan organis asi kemahasiswaan di tingkat jurusan,
+        yang dibentuk oleh mahasiswa Jurusan Tekni k Mesin untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Akutansi adalah salah satu Himpunan Mah asiswa Jurusan yang ada di
+        Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan,
+        yang dibentuk oleh mahasiswa Jurusan akutansi untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Administrasi Bisnis adalah salah satu H impunan Mahasiswa Jurusan yang ada di
+        Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan,
+        yang dibentuk oleh mahasiswa Jurusa n Administrasi Bisnis untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disin gkat UKM PCC, merupakan organisasi di
+        Politeknik Negeri Semarang yang bergerak d i bidang informasi dan teknologi. UKM Polytechnic Computer Club
+                secara eksplisit terbagi menjadi dua bagian inti, yaitu Workshop dan Organisasi.</item>
+        <item>UKM Komunitas Seni Polines merupakan satusatunya unit kegiatan mahasiswa di
+        Politeknik Negeri Semarang yang bergerak di b idang Kesenian. Nama UKM Komunitas Seni Polines
+        diresmikan pada tanggal 21 Juni 2003. Fungsi UKM KoNSeP adalah sebagai satusatunya sarana
+        pembangunan dan penyaluran minat dan bakat Mahasiswa Polines dala m bidang seni dan berorganisasi.</item>
+        <item>Unit Kegiatan Mahasiswa Pengembangan Pengetahuan (UKM PP),
+        sebagai organisasi yang bergerak di bidang Penalaran. Sebuah organisasi yang menaungi minat
+        serta bakat di bidang teknologi dan pemanfaatannya teruntuk Mahasiswa Politeknik Negeri Semarang
+        pada khususnya dan Masyarakat pada umumnya.</item>
+        <item>Dimensi merupakan satu-satunya Lembaga Pers Mahasiswa (LPM) yang berada di
+        lingkaran Keluarga Besar Mahasiswa (KBM) Politeknik Negeri Semarang.
+        Kami memang tidak tahu tanggal pasti kapan berdirinya LPM Dimensi.</item>
+        <item>UKM PECC merupakan unit kegiatan mahasiswa yang bertujuan
+        untuk meningkatkan kemampuan penggunaan keterampilan berbahasa Inggris bagi anggota aktif pada khususnya
+        mahasiswa Politeknik Negeri Semarang pada umumnya. Berdiri sejak 10 Oktober 1994.</item>
+        <item>UKM KSR PMI merupakan unit kegiatan mahasiswa ( Palang Merah Remaja )yang bertujuan
+        untuk meningkatkan kemampuan di bidang kesehatan, penolongan pertama pada kecelakaan</item>
+        <item>Unit Kegiatan Mahasiswa Kewirausahaan atau biasa disingkat UKM KWU,
+        merupakan salah satu Unit Kegiatan Mahasiswa di Politeknik Negeri Semarang yang bergerak di bidang ekonomi.
+        UKM Kewirausahaan dipimpin oleh seorang ketua yang biasa disebut Direktur.</item>
+        <item> UKM JAZIRAH adalah Unit Kegiatan Mahasiswa yang memiliki konsep Religius, Beriman, Bertakwa, dan beramal soleh.</item>
+        <item>Koperasi Mahasiswa Bahtera Manunggal memiliki beberapa unit usaha yaitu toko yang berada
+        di sebelah utara Bank Jateng atau di sebelah Markas Komando Resimen Mahasiswa,
+        yang menyediakan berbagai macam kebutuhan mahasiswa, seperti ATK, makanan, dan minuman</item>
+        <item>Dimulai dengan serangkaian acara untuk menyambut kembali UKM Radio Kampus yang sempat vakum,
+        diantaranya dengan acara Reborn Party. Sebuah acara untuk menyambut lahirnya kembali PLBS FM yang sempat mati suri,
+        kemudian dengan tetap menggunakan nama PLBS FM namun dengan ditambahkan “New” di depan.New PLBS FM menjadi sebuah radio kampus yang step by step mencoba kembali berjaya.</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/QxdcLRBk/hme.jpg</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+        <item>https://i.postimg.cc/kGmwnZCq/PP.png</item>
+        <item>https://i.postimg.cc/25r57S2Y/DIMENSI.jpg</item>
+        <item>https://i.postimg.cc/fyG20LYn/PECC.jpg</item>
+        <item>https://i.postimg.cc/6qWjrSmz/PMI.png</item>
+        <item>https://i.postimg.cc/zG0fp1MR/KWU.png</item>
+        <item>https://i.postimg.cc/wvPHZqc7/JAZIRAH.jpg</item>
+        <item>https://i.postimg.cc/HLp1ZSRc/KOPMA.png</item>
+        <item>https://i.postimg.cc/L5QRdzdk/PLBS.jpg</item>
+    </string-array>
+</resources>
