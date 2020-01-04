@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="buku_name">Buku Novel</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Miss Peregrine’s Home for Peculiar Children</item>
+        <item>Lorien Legacies</item>
+        <item>Neverwhere</item>
+        <item>The Broken Empire, Mark Lawrence</item>
+        <item>Red Pyramid</item>
+        <item>The KingKiller Chronicle, Patrick Rothfuss</item>
+        <item>Mr. Penumbra’s 24-Hours Bookstore </item>
+        <item>Seri Immortal</item>
+        <item>Trials Of Apollo</item>
+        <item>Ender’s Game</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Novel ini berputar pada cerita panti asuhan milik Miss Peregrine. Panti asuhan ini
+            bukanlah panti asuhan biasa. Anak-anak yang ada di dalamnya memiliki kemampuan istimewa,
+            yaitu kekuatan supranatural yang tergolong langka. Jacob, seorang permuda berusia 16
+            tahun mencoba menemukan panti asuhan Miss Peregrine berdasarkan pesan terakhir yang
+            ditinggalkan kakeknya sebelum meninggal.</item>
+        <item>Lorien Legacies adalah novel fantasi berseri yang terdiri dari tujuh buku. I Am Number
+            Four adalah satu seri yang paling terkenal.Bercerita tentang sembilan anak yang
+            dilarikan dari planet Lorien yang telah hancur karena perang. Setiap anak disembunyikan
+            di tempat berbeda di Bumi. Namun satu per satu
+            dari mereka terbunuh sesuai dengan nomor urutannya. John Smith adalah yang keempat.
+            John Smith melarikan diri ke Ohio dan menemukan sahabat serta cintanya disana.
+            Sam adalah orang pertama yang mau menerima dia apa adanya. Juga Sarah, seorang wanita
+            yang membuat John selalu ingin berjuang. Namun untuk bertahan hidup John harus
+            mengembangkan pusaka Lorien agar tidak dibunuh oleh Megadorian.</item>
+        <item>Richard Mayhew menjalani kehidupan yang biasa-biasa saja di London. Hidupnya berubah
+            setelah menolong seorang gadis gelandangan yang berdarah dan terkapar di jalan. Dalam
+            sekejap Richard kehilangan tunangan, identitas, rumah, dan pekerjaannya. Tiba-tiba saja
+            ia terlempar dalam dunia gelap London yang tidak dikenalnya. Mau tidak mau Richard harus
+            bergabung dengan Door, gadis yang ia selamatkan. Bersama dengan Hunter dan Marquis de
+            Carabas, mereka berusaha mencari pembunuh keluarga Door.</item>
+        <item>The Broken Empire adalah trilogi novel fantasi yang ditulis oleh Harper Voyage.
+            Buku pertamanya berjudul Prince of Thorns. Bercerita tentang Pangeran Honorous Jorg
+            Ancrath yang harus menyaksikan ibu dan saudaranya terbunuh saat usianya sembilan tahun.
+            Di usia tiga belas tahun ia menjadi pemimpin sebuah kelompok jalanan, dan di usia lima
+            belas ia ingin menjadi raja. Dengan amarah dan dendam, ia bertekad untuk mengalahkan
+            musuhnya</item>
+        <item>Carter dan Sadie mengalami sebuah pengalaman buruk dimana ayah mereka dikurung ke
+            dalam sebuah peti mati oleh seorang manusia api. Peti itu kemudian ditenggelamkan hingga
+            ke dalam Bumi. Kedua bersaudara itu terjebak dalam sebuah petualangan menegangkan yang
+            nantinya menguak rahasia terdalam keluarga mereka. Tujuan akhirnya adalah menyelamatkan
+            ayah mereka</item>
+        <item>The KingKiller Chronicle menceritakan tentang Kvothe, petulang dan musisi yang tumbuh
+            menjadi seorang penyihir terkenal. Sebagai seorang yatim piatu, ia tumbuh di kota yang
+            penuh kejahatan. Berkat keberaniannya, ia berhasil masuk ke dalam sekolah sihir
+            legendaris. Namun ia harus hidup sebagai buron setelah terjadi pembunuhan terhadap
+            seorang raja</item>
+        <item>Seorang desainer web bernama Clay Jannon harus kehilangan pekerjaannya di New Bagel
+            yang harus terpaksa tutup. Namun hidup harus terus berjalan karena Clay harus menyambung
+            hidup. Ia kemudian bekerja di toko buku Mr Penumbra yang buka 24 jam. Toko buku ini
+            penuh dengan keanehan karena ketika seorang pembeli menanyakan buku biografi Steev Jobs,
+            Clay tidak bisa menemukannya di sana. Berbagai misteri yang ada di dalam toko buku
+            membuat novel ini menjadi lebih seru</item>
+        <item>Immortals adalah seri novel fantasi yang ditulis oleh Alyson Noël. Dua buku pertama,
+            yaitu Evermore dan Blue Moon yang rilis pada 2009 adalah buku terlaris versi New York
+            Times. Buku pertama berjudul Evermore bercerita tentang Ever Bloom, seorang gadis baru
+            di sekolah yang cantik namun kikuk. Setelah mengalami kecelakaan yang merenggut nyawa
+            seluruh keluarganya, Ever memiliki kemampuan aneh yaitu bisa menderngarkan pikiran orang
+            lain, mengetahui seluruh kisah hidup mereka, hingga melihat aura mereka hanya dengan satu
+            sentuhan. Kehidupan Ever kembali berubah saat ia bertemu dengan Damen Auguste. </item>
+        <item>The Trials of Apollo karya Rick Riordan adalah pentalogi yang tediri dari 5 seri.
+            Kelima bukunya berkutat di dunia latar belakang yang sama. Buku pertama berjudul The
+            Hidden Orade, bercerita tentang Apollo yang merasa sangat terhina untuk pertama kalinya
+            selama empat ribu tahun ia hidup. Terkenal sebagai dewa paling tampan, berbakat, dan
+            mengagumkan, wujud Apollo kini berubah menjadi culun, berambut keriting, dengan wajah
+            penuh jerawat dan perut menggelambir. Identitasnya berubah menjadi Lester Papadopoulos.
+            Apollo harus menyudahi kutukan ini dan kembali bersama para dewa di Olympus.</item>
+        <item>Ender’s Game berkisah tentang seorang remaja bernama Ender yang bertanggung
+            jawab untuk menyelamatkan Bumi. Serangan dari Bugger, makhluk luar angkasa yang
+            berbentuk mirip belalang berupaya untuk memusnahkan semua makhluk di Bumi. Di tengah-
+            tengah tugas yang harus ia selesaikan, Ender harus menghadapi masalah yang lebih dari
+            sekedar Bugger. Ia mulai diperebutkan oleh banyak pemimpin termasuk kakak sulungnya
+            sendiri, Peter.</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>c</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+        <item>https://i.postimg.cc/MKtmCjJX/jazirah.jpg</item>
+        <item>https://i.postimg.cc/Gtj37CNT/kwu.jpg</item>
+        <item>https://i.postimg.cc/rmkLvH51/pp.png</item>
+    </string-array>
+</resources>
